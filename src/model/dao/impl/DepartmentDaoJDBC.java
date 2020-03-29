@@ -20,14 +20,14 @@ public class DepartmentDaoJDBC implements DepartmentDao{
 	}
 
 	@Override
-	public void deletById(Department obj) {
+	public void deletById(Integer id) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public Department findById(Department obj) {
-		// TODO Auto-generated method stub
+	public Department findById(Integer id) {
+		
 		return null;
 	}
 
